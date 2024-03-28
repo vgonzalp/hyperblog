@@ -3,3 +3,5 @@ este es un archivo de prueba
 no contiene información sensible
 
 solo texto plano y se guardará en la carpeta del curso
+
+agregamos adenmas la fecha de hoy 27 de Marzo de 2024
