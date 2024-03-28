@@ -1,0 +1,5 @@
+este es un archivo de prueba
+
+no contiene información sensible
+
+solo texto plano y se guardará en la carpeta del curso
